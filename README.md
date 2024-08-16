@@ -2,7 +2,9 @@
 
 ## Overview
 
-The **Applicant Selection App** is a Rust-based application designed to automatically select applicants for our GIS training program based on specified criteria. It uses the Actix-web framework for the backend and Diesel ORM for database interactions.
+The **Applicant Selection App** is a Rust-based application designed to automatically select applicants for our GIS training program based on specified criteria. 
+
+It uses the Actix-web framework for the backend and Diesel ORM for database interactions.
 
 ## Features
 
