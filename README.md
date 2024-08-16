@@ -69,4 +69,11 @@ The **Applicant Selection App** is a Rust-based application designed to automati
         }
       ]
   ```
-      
+
+## License
+
+This project is licensed under the Apache License. See the LICENSE file for details.
+
+## Contributing
+
+Feel free to submit issues or pull requests to improve the application.
