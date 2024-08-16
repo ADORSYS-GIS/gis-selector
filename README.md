@@ -45,7 +45,7 @@ The **Applicant Selection App** is a Rust-based application designed to automati
    ```bash
    cargo run
    ```
-### API Endpoints
+<!-- ### API Endpoints
 #### POST /select
 - **Description**: Selects applicants based on the provided criteria.
 
@@ -69,7 +69,7 @@ The **Applicant Selection App** is a Rust-based application designed to automati
         }
       ]
   ```
-
+-->
 ## License
 
 This project is licensed under the Apache License. See the LICENSE file for details.
