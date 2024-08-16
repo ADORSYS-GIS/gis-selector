@@ -24,3 +24,14 @@ The **Applicant Selection App** is a Rust-based application designed to automati
    ```bash
    git clone https://github.com/your-username/applicant-selection-app.git
    cd applicant-selection-app
+   ```
+2. **Configure Environment**
+
+- Create a `.env` file in the `backend` directory with the following 
+
+content:
+   ```bash
+   DATABASE_URL=postgres://user:password@localhost/applicant_db
+HOST=127.0.0.1
+PORT=8080
+```
