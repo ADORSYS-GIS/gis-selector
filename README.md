@@ -29,9 +29,20 @@ The **Applicant Selection App** is a Rust-based application designed to automati
 
 - Create a `.env` file in the `backend` directory with the following 
 
-content:
+  content:
+
    ```bash
    DATABASE_URL=postgres://user:password@localhost/applicant_db
-HOST=127.0.0.1
-PORT=8080
-```
+   HOST=127.0.0.1
+   PORT=8080
+   ```
+3. **Build and Run**
+- Build the project:
+   ```bash
+   cargo build
+   ```
+- Run the application:
+   ```bash
+   cargo run
+   ```
+   
