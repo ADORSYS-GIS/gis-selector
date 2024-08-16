@@ -22,8 +22,8 @@ The **Applicant Selection App** is a Rust-based application designed to automati
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/applicant-selection-app.git
-   cd applicant-selection-app
+   git clone https://github.com/ADORSYS-GIS/gis-selector
+   cd gis-selector
    ```
 2. **Configure Environment**
 
