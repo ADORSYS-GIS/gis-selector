@@ -45,4 +45,28 @@ The **Applicant Selection App** is a Rust-based application designed to automati
    ```bash
    cargo run
    ```
-   
+### API Endpoints
+#### POST /select
+- **Description**: Selects applicants based on the provided criteria.
+
+- **Request Body**:
+  ```json
+  {
+    "experience": 5,
+    "education": "Bachelor's"
+  }
+  ```
+- **Response**:
+  ```json
+      [
+        {
+          "name": "John Doe",
+          "score": 85
+        },
+        {
+          "name": "Jane Smith",
+          "score": 90
+        }
+      ]
+  ```
+      
